@@ -1,5 +1,6 @@
-## Simple CSS Basics
+## Modern CSS
 
-- Flexbox
-- Grid
-- BEM
+- CSS3
+- Animations & Transitions
+- Flexbox & Grid
+- Responsive (@media)
