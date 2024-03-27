@@ -1,10 +1,10 @@
 ## Simple CSS Basics
 
-## Resources for SocialEditor
+### Resources for SocialEditor
 
 ###### FAVICON
 
-<link rel="icon" type="image/png" href="https://bytegrad.com/course-assets/css/1/favicon.png">
+<!-- <link rel="icon" type="image/png" href="https://bytegrad.com/course-assets/css/1/favicon.png"> -->
 
 ###### FONT
 
